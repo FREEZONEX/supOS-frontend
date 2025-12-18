@@ -1,8 +1,8 @@
 [English][readme-en-link] | **简体中文**
 
-# supOS
+# Tier0-Edge
 
-supOS 是一个开源的工业物联网 (IIoT) 平台。
+Tier0-Edge 是一个开源的工业物联网 (IIoT) 平台。
 
 ## 技术栈
 
@@ -24,7 +24,7 @@ supOS 是一个开源的工业物联网 (IIoT) 平台。
 1. 复制仓库地址:
 
    ```bash
-   git clone https://github.com/supOS-Project/supOS-frontend.git
+   git clone https://github.com/Tier0-Edge-Frontend.git
    ```
 
 2. 安装依赖:
