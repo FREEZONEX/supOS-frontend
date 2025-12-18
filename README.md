@@ -1,8 +1,8 @@
 **English** | [中文][readme-zh-link]
 
-# supOS
+# Tier0-Edge
 
-supOS is an open-source Industrial Internet of Things (IIoT) platform.
+Tier0 is an open-source Industrial Internet of Things (IIoT) platform.
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/supOS-Project/supOS-frontend.git
+   git clone https://github.com/FREEZONEX/Tier0-Edge-Frontend.git
    ```
 
 2. Install the dependencies:
